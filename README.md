@@ -4,6 +4,8 @@
 
 [![coverage report](https://gitlab.com/Sam1224/take-away-as-test/badges/master/coverage.svg)](https://gitlab.com/Sam1224/take-away-as-test/badges/master/coverage.svg?job=coverage)
 
+- [Github](https://github.com/Sam1224/Take-Away-AS-Test)
+- [Gitlab](https://gitlab.com/Sam1224/take-away-as-test)
 - [Assignment 1 - Agile Software Practice.](#assignment-1---agile-software-practice)
   * [Personal Information.](#personal-information)
   * [Environment.](#environment)
@@ -865,3 +867,5 @@ There are some extra features I'd like to highlight to denote my attitude toward
             - Inspired by my lecturer, I riched the functionality of this project by adding 2 endpoints:
                 - Get the top three/bottom three menu options for a seller.
                 - Get a user's top three favorite menu options from a seller or from all sellers.
+        - CI/CD:
+            - Use Gitlab to add CI/CD features.
