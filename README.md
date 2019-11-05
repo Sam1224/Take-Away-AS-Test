@@ -1,5 +1,9 @@
 # Assignment 1 - Agile Software Practice.
 
+[![pipeline status](https://gitlab.com/Sam1224/take-away-as-test/badges/master/pipeline.svg)](https://gitlab.com/Sam1224/take-away-as-test/commits/master)
+
+[![coverage report](https://gitlab.com/Sam1224/take-away-as-test/badges/master/coverage.svg)](https://gitlab.com/Sam1224/take-away-as-test/badges/master/coverage.svg?job=coverage)
+
 - [Assignment 1 - Agile Software Practice.](#assignment-1---agile-software-practice)
   * [Personal Information.](#personal-information)
   * [Environment.](#environment)
